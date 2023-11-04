@@ -506,10 +506,10 @@ __help__ = """
 ɴᴏᴛᴇ:
  ❍ <sᴛɪᴄᴋᴇʀ ʟɪɴᴋ> ᴄᴀɴ ʙᴇ `ʜᴛᴛᴘs://ᴛ.ᴍᴇ/ᴀᴅᴅsᴛɪᴄᴋᴇʀs/<sᴛɪᴄᴋᴇʀ>` ᴏʀ ᴊᴜsᴛ `<sᴛɪᴄᴋᴇʀ>` ᴏʀ ʀᴇᴘʟʏ ᴛᴏ ᴛʜᴇ sᴛɪᴄᴋᴇʀ ᴍᴇssᴀɢᴇ
 
-☆............𝙱𝚈 » [ʀσᴄкყ](https://t.me/ROCKY_ISS_BACK)............☆
+☆............𝙱𝚈 » [ɪɴɴᴏᴄᴇɴᴛ](https://t.me/Itzz_me_innocentt)............☆
 """
 
-__mod_name__ = "sᴛɪᴄᴋᴇʀ"
+__mod_name__ = "⛧‌sᴛɪᴄᴋᴇʀ⛧‌"
 
 BLACKLIST_STICKER_HANDLER = DisableAbleCommandHandler(
     "blsticker", blackliststicker, admin_ok=True
