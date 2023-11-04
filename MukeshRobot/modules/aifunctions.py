@@ -36,7 +36,7 @@ async def hmm(event):
         except CFError as e:
             print(e)
     elif "ann" in result:
-        pro = "My name is rocky"
+        pro = "My name is ɪɴɴᴏᴄᴇɴᴛ "
         try:
             async with telethn.action(event.chat_id, "typing"):
                 await asyncio.sleep(2)
