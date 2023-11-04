@@ -152,12 +152,12 @@ def unapproveall(update: Update, context: CallbackContext):
             [
                 [
                     InlineKeyboardButton(
-                        text="📍Unapprove all users📍", callback_data="unapproveall_user"
+                        text="💕Unapprove all users💕", callback_data="unapproveall_user"
                     )
                 ],
                 [
                     InlineKeyboardButton(
-                        text="📍Cancel📍", callback_data="unapproveall_cancel"
+                        text="💕Cancel💕", callback_data="unapproveall_cancel"
                     )
                 ],
             ]
@@ -210,7 +210,7 @@ sᴏᴍᴇᴛɪᴍᴇs, ʏᴏᴜ ᴍɪɢʜᴛ ᴛʀᴜsᴛ ᴀ ᴜsᴇʀ ɴᴏ�
 ❍ /approved *:* ʟɪsᴛ ᴀʟʟ ᴀᴘᴘʀᴏᴠᴇᴅ ᴜsᴇʀs.
 ❍ /unapproveall *:* ᴜɴᴀᴘᴘʀᴏᴠᴇ *ᴀʟʟ* ᴜsᴇʀs ɪɴ ᴀ ᴄʜᴀᴛ. ᴛʜɪs ᴄᴀɴɴᴏᴛ ʙᴇ ᴜɴᴅᴏɴᴇ.
 
-☆............𝙱𝚈 » [ʀσᴄкყ](https://t.me/ROCKY_ISS_BACK)............☆
+☆............𝙱𝚈 » [ɪɴɴᴏᴄᴇɴᴛ](https://t.me/Itzz_me_innocentt)............☆
 """
 
 APPROVE = DisableAbleCommandHandler("approve", approve)
@@ -227,6 +227,6 @@ dispatcher.add_handler(APPROVAL)
 dispatcher.add_handler(UNAPPROVEALL)
 dispatcher.add_handler(UNAPPROVEALL_BTN)
 
-__mod_name__ = "Aᴘᴘʀᴏᴠᴇ"
+__mod_name__ = "⛧‌Aᴘᴘʀᴏᴠᴇ⛧‌"
 __command_list__ = ["approve", "unapprove", "approved", "approval"]
 __handlers__ = [APPROVE, DISAPPROVE, APPROVED, APPROVAL]
