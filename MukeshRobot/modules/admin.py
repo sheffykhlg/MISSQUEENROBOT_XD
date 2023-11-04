@@ -992,7 +992,7 @@ __help__ = """
 » /setdesc*:* sᴇᴛ ɢʀᴏᴜᴘ ᴅᴇsᴄʀɪᴘᴛɪᴏɴ
 » /setsticker*:* sᴇᴛ ɢʀᴏᴜᴘ sᴛɪᴄᴋᴇʀ
 
-☆............𝙱𝚈 » [ʀσᴄкყ](https://t.me/ROCKY_ISS_BACK)............☆
+☆............𝙱𝚈 » [ɪɴɴᴏᴄᴇɴᴛ](https://t.me/Itzz_me_innocentt)............☆
 """
 
 SET_DESC_HANDLER = CommandHandler("setdesc", set_desc)
@@ -1037,7 +1037,7 @@ dispatcher.add_handler(DEMOTE_HANDLER)
 dispatcher.add_handler(SET_TITLE_HANDLER)
 dispatcher.add_handler(ADMIN_REFRESH_HANDLER)
 
-__mod_name__ = "Aᴅᴍɪɴs"
+__mod_name__ = "⛧‌Aᴅᴍɪɴs⛧‌"
 __command_list__ = [
     "setdesc" "setsticker" "setgpic" "delgpic" "setgtitle" "adminlist",
     "admins",
