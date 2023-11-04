@@ -1,14 +1,14 @@
 {
       "name": "༎ࠫ🫧⛧‌ٖٖٖٖٖٖٜٖٖٖٖмιѕѕ qυєєи⛧‌ٖٖٖٖٖٖٜٖٖٖٖᥫᩣ●───♫▷",
       "description": "ᴛɢ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇʀ ʀᴏʙᴏᴛ.",
-      "logo": "https://graph.org/file/a1503f6a173c13523ecc3.jpg",
+      "logo": "https://te.legra.ph/file/47aeb317b15c13457e0b5.jpg",
       "keywords": [
          "telegram",
          "modular",
          "group",
          "manager"
       ],   
-   "repository": "https://github.com/ROCKY-D3V/XDROBOT",
+   "repository": "https://github.com/INNOCENTLDKAA/MISSQUEENROBOT",
    "stack": "heroku-22",
    "addons": [
       {
@@ -60,12 +60,12 @@
       "START_IMG": {
          "description": "Telegraph link of the image which will be shown at start command.",
          "required": true,
-         "value": "https://graph.org/file/a1503f6a173c13523ecc3.jpg"
+         "value": "https://te.legra.ph/file/47aeb317b15c13457e0b5.jpg"
       },
       "SUPPORT_CHAT": {
          "description": "Your Telegram support group chat username where your users will go and bother you with shit.",
          "required": true,
-         "value": "XD_N3TWORK"
+         "value": "@friendship_forever_group143"
       },
       "TOKEN": {
          "description": "Get bot token from @BotFather on TG",
