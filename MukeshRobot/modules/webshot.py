@@ -7,9 +7,9 @@ from MukeshRobot.utils.errors import capture_err
 __help__ = """
 » /webss *:* sᴇɴᴅs ᴛʜᴇ sᴄʀᴇᴇɴsʜᴏᴛ ᴏғ ᴛʜᴇ ɢɪᴠᴇɴ ᴜʀʟ.
 
-☆............𝙱𝚈 » [ʀσᴄкყ](https://t.me/ROCKY_ISS_BACK)............☆
+☆............𝙱𝚈 » [ɪɴɴᴏᴄᴇɴᴛ](https://t.me/Itzz_me_innocentt)............☆
 """
-__mod_name__ = "⚡Wᴇʙsʜᴏᴛ⚡"
+__mod_name__ = "⛧‌Wᴇʙsʜᴏᴛ⛧‌"
 
 
 @app.on_message(filters.command("webss"))
