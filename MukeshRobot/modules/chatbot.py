@@ -148,7 +148,7 @@ __help__ = f"""
 ☆............𝙱𝚈 » [ɪɴɴᴏᴄᴇɴᴛ](https://t.me/Itzz_me_innocentt)............☆
 """
 
-__mod_name__ = "Cʜᴀᴛʙᴏᴛ"
+__mod_name__ = "⛧‌Cʜᴀᴛʙᴏᴛ⛧‌"
 
 
 CHATBOTK_HANDLER = CommandHandler("chatbot", fallen)
