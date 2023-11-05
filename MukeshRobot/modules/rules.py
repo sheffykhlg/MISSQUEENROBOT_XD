@@ -160,10 +160,10 @@ __help__ = """
  ‣ `/setrules <your rules here>`*:* set the rules for this chat.
  ‣ `/clearrules`*:* clear the rules for this chat.
 
-☆............𝙱𝚈 » [ʀσᴄкყ](https://t.me/ROCKY_ISS_BACK)............☆
+☆............𝙱𝚈 » [ɪɴɴᴏᴄᴇɴᴛ](https://t.me/Itzz_me_innocentt)............☆
 """
 
-__mod_name__ = "Rᴜʟᴇs"
+__mod_name__ = "⛧‌Rᴜʟᴇs⛧‌"
 
 GET_RULES_HANDLER = CommandHandler("rules", get_rules)
 SET_RULES_HANDLER = CommandHandler("setrules", set_rules)
