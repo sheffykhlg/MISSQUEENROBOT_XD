@@ -410,7 +410,7 @@ def Mukesh_about_callback(update: Update, context: CallbackContext):
             "\n➲  ɪ ᴄᴀɴ ɢʀᴇᴇᴛ ᴜꜱᴇʀꜱ ᴡɪᴛʜ ᴄᴜꜱᴛᴏᴍɪᴢᴀʙʟᴇ ᴡᴇʟᴄᴏᴍᴇ ᴍᴇꜱꜱᴀɢᴇꜱ ᴀɴᴅ ᴇᴠᴇɴ ꜱᴇᴛ ᴀ ɢʀᴏᴜᴘ'ꜱ ʀᴜʟᴇꜱ."
             "\n➲  ɪ ᴄᴀɴ ᴡᴀʀɴ ᴜꜱᴇʀꜱ ᴜɴᴛɪʟ ᴛʜᴇʏ ʀᴇᴀᴄʜ ᴍᴀx ᴡᴀʀɴꜱ, ᴡɪᴛʜ ᴇᴀᴄʜ ᴘʀᴇᴅᴇꜰɪɴᴇᴅ ᴀᴄᴛɪᴏɴꜱ ꜱᴜᴄʜ ᴀꜱ ʙᴀɴ, ᴍᴜᴛᴇ, ᴋɪᴄᴋ, ᴇᴛᴄ."
             "\n➲  ɪ ʜᴀᴠᴇ ᴀ ɴᴏᴛᴇ ᴋᴇᴇᴘɪɴɢ ꜱʏꜱᴛᴇᴍ, ʙʟᴀᴄᴋʟɪꜱᴛꜱ, ᴀɴᴅ ᴇᴠᴇɴ ᴘʀᴇᴅᴇᴛᴇʀᴍɪɴᴇᴅ ʀᴇᴘʟɪᴇꜱ ᴏɴ ᴄᴇʀᴛᴀɪɴ ᴋᴇʏᴡᴏʀᴅꜱ."
-            "\n\n ☆............𝙱𝚈 » ʀσᴄкყ............☆",
+            "\n\n ☆............𝙱𝚈 » [ɪɴɴᴏᴄᴇɴᴛ](https://t.me/Itzz_me_innocentt)............☆",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup(
@@ -456,59 +456,59 @@ def Music_about_callback(update: Update, context: CallbackContext):
                     [
                         
                 InlineKeyboardButton(
-                    text="ᴀᴅᴍɪɴ",
+                    text="⛧‌ᴀᴅᴍɪɴ⛧‌",
                     callback_data="Music_1",
                 ),
                 InlineKeyboardButton(
-                    text="ᴀᴜᴛʜ",
+                    text="⛧‌ᴀᴜᴛʜ⛧‌",
                     callback_data="Music_2",
                 ),
             
                 InlineKeyboardButton(
-                    text="ʙʟᴏᴄᴋ",
+                    text="⛧‌ʙʟᴏᴄᴋ⛧‌",
                     callback_data="Music_3",
                 ),
             ],
             [
                 InlineKeyboardButton(
-                    text="ɢᴄᴀsᴛ",
+                    text="⛧‌ɢᴄᴀsᴛ⛧‌",
                     callback_data="Music_4",
                 ),
                 InlineKeyboardButton(
-                    text="ɢʙᴀɴ",
+                    text="⛧‌ɢʙᴀɴ⛧‌",
                     callback_data="Music_5",
                 ),
                 InlineKeyboardButton(
-                    text="ʟʏʀɪᴄs",
+                    text="⛧‌ʟʏʀɪᴄs⛧‌",
                     callback_data="Music_6",
                 ),
             ],
             [
                 InlineKeyboardButton(
-                    text="ᴘʟᴀʏʟɪsᴛ",
+                    text="⛧‌ᴘʟᴀʏʟɪsᴛ⛧‌",
                     callback_data="Music_7",
                 ),
                 InlineKeyboardButton(
-                    text="ᴠᴏɪᴄᴇ-ᴄʜᴀᴛ",
+                    text="⛧‌ᴠᴏɪᴄᴇ-ᴄʜᴀᴛ⛧‌",
                     callback_data="Music_8",
                 ),
             ],
             [
            
                 InlineKeyboardButton(
-                    text="ᴘʟᴀʏ",
+                    text="⛧‌ᴘʟᴀʏ⛧‌",
                     callback_data="Music_9",
                 ),
             
             
                 InlineKeyboardButton(
-                    text="sᴜᴅᴏ",
+                    text="⛧‌sᴜᴅᴏ⛧‌",
                     callback_data="Music_10",
                 ),
             ],
             [
                 InlineKeyboardButton(
-                    text="sᴛᴀʀᴛ",
+                    text="⛧‌sᴛᴀʀᴛ⛧‌",
                     callback_data="Music_11",
                 ),
             ],
