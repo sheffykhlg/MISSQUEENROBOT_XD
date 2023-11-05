@@ -28,7 +28,7 @@ sᴜᴄᴇssғᴜʟʟʏ ᴡʀɪᴛᴛᴇɴ ᴛᴇxᴛ 💘
             photo=req,
             caption=caption,
             reply_markup=InlineKeyboardMarkup(
-                [[InlineKeyboardButton("🍁ᴛᴇʟᴇɢʀᴀᴩʜ🍁", url=f"{req}")]]
+                [[InlineKeyboardButton("💕ᴛᴇʟᴇɢʀᴀᴩʜ💕", url=f"{req}")]]
             ),
         )
     else:
@@ -51,12 +51,12 @@ sᴜᴄᴇssғᴜʟʟʏ ᴡʀɪᴛᴛᴇɴ ᴛᴇxᴛ 💘
             photo=req,
             caption=caption,
             reply_markup=InlineKeyboardMarkup(
-                [[InlineKeyboardButton("🌷ᴛᴇʟᴇɢʀᴀᴩʜ🌷", url=f"{req}")]]
+                [[InlineKeyboardButton("💕ᴛᴇʟᴇɢʀᴀᴩʜ💕", url=f"{req}")]]
             ),
         )
 
 
-__mod_name__ = "⚡WʀɪᴛᴇTᴏᴏʟ⚡"
+__mod_name__ = "⛧‌WʀɪᴛᴇTᴏᴏʟ⛧‌"
 
 __help__ = """
 
@@ -64,5 +64,5 @@ __help__ = """
 
 ❍ /write <ᴛᴇxᴛ> *:* ᴡʀɪᴛᴇs ᴛʜᴇ ɢɪᴠᴇɴ ᴛᴇxᴛ.
 
-☆............𝙱𝚈 » [ʀσᴄкყ](https://t.me/ROCKY_ISS_BACK)............☆
+☆............𝙱𝚈 » [ɪɴɴᴏᴄᴇɴᴛ](https://t.me/Itzz_me_innocentt)............☆
  """
