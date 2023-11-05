@@ -1127,7 +1127,7 @@ def main():
 
 ╔═════ஜ۩۞۩ஜ═════╗
 
-  🥀𝗠𝗔𝗗𝗘 𝗕𝗬 [𝗥𝗢𝗖𝗞𝗬](https://t.me/ROCKY_ISS_BACK)🥀
+  🥀𝗠𝗔𝗗𝗘 𝗕𝗬 [ɪɴɴᴏᴄᴇɴᴛ](https://t.me/Itzz_me_innocentt)🥀
   
 ╚═════ஜ۩۞۩ஜ═════╝
 """,
@@ -1172,7 +1172,7 @@ def main():
 
     dispatcher.add_error_handler(error_callback)
 
-    LOGGER.info("𝗕𝗢𝗧 𝗦𝗧𝗔𝗥𝗧𝗘𝗗 𝗦𝗨𝗖𝗖𝗘𝗦𝗦𝗙𝗨𝗟𝗟𝗨\n\n╔═════ஜ۩۞۩ஜ════╗\n\n♨️𝗠𝗔𝗗𝗘 𝗕𝗬 𝗥𝗢𝗖𝗞𝗬♨️\n\n╚═════ஜ۩۞۩ஜ════╝")
+    LOGGER.info("𝗕𝗢𝗧 𝗦𝗧𝗔𝗥𝗧𝗘𝗗 𝗦𝗨𝗖𝗖𝗘𝗦𝗦𝗙𝗨𝗟𝗟𝗨\n\n╔═════ஜ۩۞۩ஜ════╗\n\n💞ᴍᴀᴅᴇ ʙʏ ɪɴɴᴏᴄᴇɴᴛ💞\n\n╚═════ஜ۩۞۩ஜ════╝")
     updater.start_polling(timeout=15, read_latency=4, clean=True)
 
     if len(argv) not in (1, 3, 4):
