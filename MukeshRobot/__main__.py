@@ -447,7 +447,7 @@ def Music_about_callback(update: Update, context: CallbackContext):
     if query.data == "Music_":
         query.message.edit_text(
             text=f"""
- **👀𝗛𝗲𝘆 𝗕𝗮𝗯𝘆 🖤\n\n 𝗪𝗲𝗹𝗰𝗼𝗺𝗲 𝗧𝗼 {dispatcher.bot.first_name} 🍷\n\n𝗜 𝗔𝗺 𝗔𝗻 𝗔𝗱𝘃𝗮𝗻𝗰𝗲𝗱 𝗔𝗻𝗱 𝗦𝘂𝗽𝗲𝗿𝗳𝗮𝘀𝘁 𝗩𝗖 𝗣𝗹𝗮𝘆𝗲𝗿 𝗪𝗶𝘁𝗵 24𝘅7 𝗔𝗰𝘁𝗶𝘃𝗲 » 𝗙𝗼𝗿 𝗧𝗲𝗹𝗲𝗴𝗿𝗮𝗺 𝗖𝗵𝗮𝗻𝗻𝗲𝗹 𝗔𝗻𝗱 𝗚𝗿𝗼𝘂𝗽𝘀\n\n𝗙𝗲𝗲𝗹 𝗟𝗮𝗴 𝗙𝗿𝗲𝗲 𝗧𝗼 𝗔𝗱𝗱 𝗠𝗲 𝗜𝗻 𝗬𝗼𝘂𝗿 𝗚𝗿𝗼𝘂𝗽 𝗔𝗻𝗱 𝗘𝗻𝗷𝗼𝘆 𝗦𝘂𝗽𝗲𝗿 𝗛𝗶𝗴𝗵 𝗤𝘂𝗮𝗹𝗶𝘁𝘆 𝗔𝘂𝗱𝗶𝗼 𝗔𝗻𝗱 𝗩𝗶𝗱𝗲𝗼\n\n☆............𝙱𝚈 » [𝗥σᴄкყ](https://t.me/ROCKY_ISS_BACK)............☆ 💞** 
+ **👀𝗛𝗲𝘆 𝗕𝗮𝗯𝘆 🖤\n\n 𝗪𝗲𝗹𝗰𝗼𝗺𝗲 𝗧𝗼 {dispatcher.bot.first_name} 🍷\n\n𝗜 𝗔𝗺 𝗔𝗻 𝗔𝗱𝘃𝗮𝗻𝗰𝗲𝗱 𝗔𝗻𝗱 𝗦𝘂𝗽𝗲𝗿𝗳𝗮𝘀𝘁 𝗩𝗖 𝗣𝗹𝗮𝘆𝗲𝗿 𝗪𝗶𝘁𝗵 24𝘅7 𝗔𝗰𝘁𝗶𝘃𝗲 » 𝗙𝗼𝗿 𝗧𝗲𝗹𝗲𝗴𝗿𝗮𝗺 𝗖𝗵𝗮𝗻𝗻𝗲𝗹 𝗔𝗻𝗱 𝗚𝗿𝗼𝘂𝗽𝘀\n\n𝗙𝗲𝗲𝗹 𝗟𝗮𝗴 𝗙𝗿𝗲𝗲 𝗧𝗼 𝗔𝗱𝗱 𝗠𝗲 𝗜𝗻 𝗬𝗼𝘂𝗿 𝗚𝗿𝗼𝘂𝗽 𝗔𝗻𝗱 𝗘𝗻𝗷𝗼𝘆 𝗦𝘂𝗽𝗲𝗿 𝗛𝗶𝗴𝗵 𝗤𝘂𝗮𝗹𝗶𝘁𝘆 𝗔𝘂𝗱𝗶𝗼 𝗔𝗻𝗱 𝗩𝗶𝗱𝗲𝗼\n\n☆............𝙱𝚈 » [ɪɴɴᴏᴄᴇɴᴛ](https://t.me/Itzz_me_innocentt)............☆ 💞** 
 """,
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
