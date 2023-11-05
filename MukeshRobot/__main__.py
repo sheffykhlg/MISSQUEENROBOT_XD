@@ -109,7 +109,7 @@ buttons = [
         InlineKeyboardButton(text="⎯꯭‌✭𝆺꯭𝅥𝙼𝚄𝚂𝙸𝙲✭", callback_data="Music_"),
     ],
     [
-        InlineKeyboardButton(text="⎯꯭‌✭𝆺꯭𝅥𝚂𝚄𝙿𝙿𝙾𝚁𝚃✭", url=f"https://t.me/{SUPPORT_CHAT}"),
+        InlineKeyboardButton(text="⎯꯭‌✭𝆺꯭𝅥𝚂𝚄𝙿𝙿𝙾𝚁𝚃✭", url=f"https://t.me/friendship_forever_group143"),
         InlineKeyboardButton(text="⎯꯭‌✭𝆺꯭𝅥𝚄𝙿𝙳𝙰𝚃𝙴✭", url=f"https://t.me/khamoshiya01"),
     ],
     [
