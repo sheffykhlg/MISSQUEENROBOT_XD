@@ -47,6 +47,8 @@ class Config(object):
     BAN_STICKER = os.environ.get("BAN_STICKER")
     ALLOW_EXCL = True
 
+    ALLOW_CHATS = []
+
     CASH_API_KEY = os.environ.get("CASH_API_KEY")
     TIME_API_KEY = os.environ.get("TIME_API_KEY")
     WALL_API = os.environ.get("WALL_API")
