@@ -10,22 +10,22 @@ def get_user_list(config, key):
 class Config(object):
     LOGGER = True
 
-    API_ID = os.environ.get("API_ID", "")
-    API_HASH = os.environ.get("API_HASH", "")
-    TOKEN = os.environ.get("TOKEN", "")
-    OWNER_ID = os.environ.get("OWNER_ID", "")
-    OWNER_USERNAME = os.environ.get("OWNER_USERNAME", "")
+    API_ID = os.environ.get("API_ID", "25912079")
+    API_HASH = os.environ.get("API_HASH", "c127cd4b96f4c61ae9e5cb206fdd8f09")
+    TOKEN = os.environ.get("TOKEN", "7081901018:AAHQDn99G8Tkx2RT7vyIy1gRaKwsf9s8zuw")
+    OWNER_ID = os.environ.get("OWNER_ID", "7584759990")
+    OWNER_USERNAME = os.environ.get("OWNER_USERNAME", "@lnnocentIdkaaa")
 
     SUPPORT_CHAT = os.environ.get("SUPPORT_CHAT", "TG_FRIENDSS")
     JOIN_LOGGER = os.environ.get("JOIN_LOGGER", None)
     EVENT_LOGS = os.environ.get("EVENT_LOGS", None)
 
     # MongoDB
-    MONGO_DB_URI = os.environ.get("MONGO_DB_URI", "")
+    MONGO_DB_URI = os.environ.get("MONGO_DB_URI", "mongodb+srv://Sunil:Innocentldkaaa143!@sunil.zlzosnt.mongodb.net/?retryWrites=true&w=majority")
 
     # PostgreSQL (Neon)
-    DATABASE_URL = os.environ.get("DATABASE_URL", "")
-    SQLALCHEMY_DATABASE_URI = os.environ.get("SQLALCHEMY_DATABASE_URI", "")
+    DATABASE_URL = os.environ.get("DATABASE_URL", "postgresql://neondb_owner:npg_gGsVek6a9qPZ@ep-cool-breeze-ai4gb7kh-pooler.c-4.us-east-1.aws.neon.tech/neondb?sslmode=require&channel_binding=require")
+    SQLALCHEMY_DATABASE_URI = os.environ.get("SQLALCHEMY_DATABASE_URI", "postgresql://neondb_owner:npg_gGsVek6a9qPZ@ep-cool-breeze-ai4gb7kh-pooler.c-4.us-east-1.aws.neon.tech/neondb?sslmode=require&channel_binding=require")
 
     # Start image
     START_IMG = os.environ.get("START_IMG", "")
