@@ -21,7 +21,7 @@ class Config(object):
     EVENT_LOGS = os.environ.get("EVENT_LOGS", None)
 
     # MongoDB
-    MONGO_DB_URI = os.environ.get("MONGO_DB_URI", "mongodb+srv://Sunil:Innocentldkaaa143!@sunil.zlzosnt.mongodb.net/?retryWrites=true&w=majority")
+    MONGO_DB_URI = os.environ.get("MONGO_DB_URI", "mongodb+srv://Alisha:Alisha123@cluster0.yqcpftw.mongodb.net/?retryWrites=true&w=majority")
 
     # PostgreSQL (Neon)
     DATABASE_URL = os.environ.get("DATABASE_URL", "postgresql://neondb_owner:npg_gGsVek6a9qPZ@ep-cool-breeze-ai4gb7kh-pooler.c-4.us-east-1.aws.neon.tech/neondb?sslmode=require&channel_binding=require")
